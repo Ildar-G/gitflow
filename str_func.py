@@ -4,3 +4,11 @@ def func_upper():
 
 
 """Функция func_upper"""
+
+
+def func_title():
+    s = str(input())
+    return s.title()
+
+
+"""Функция func_title"""
